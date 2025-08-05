@@ -48,5 +48,5 @@ function sortearAmigo() {
     let nombreSorteado = listaAmigos[indiceAleatorio];
 
     // Mostramos el nombre sorteado en la página
-    resultado.innerHTML = `<li>El amigo secreto es: ${nombreSorteado}</li>`;
+    resultado.innerHTML = `El amigo secreto es: ${nombreSorteado}`;
 }
